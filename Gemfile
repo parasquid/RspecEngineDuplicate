@@ -47,4 +47,3 @@ group :development do
   gem 'spring'
 end
 
-gem 'zeroclipboard-rails', '~> 0.1.1'
